@@ -3313,3 +3313,4 @@ genee_evolution, 热血江湖
 cx_adminpostexp, [CX]管理员编帖记录
 v7_shen, v7帖子神回复
 mowii_oldthread, 主题冷却
+jameson_read, 小说阅读器
